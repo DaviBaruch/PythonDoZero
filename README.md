@@ -41,7 +41,3 @@ O objetivo é construir uma base sólida em lógica de programação, preparando
 - 🐍 Python  
 - 💻 VS Code  
 - 💾 Git & GitHub  
-
----
-
-## 📂 Estrutura do Projeto
